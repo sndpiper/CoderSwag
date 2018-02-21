@@ -1,7 +1,8 @@
-package com.mediasyncnow.coderswag
+package com.mediasyncnow.coderswag.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.mediasyncnow.coderswag.R
 
 class MainActivity : AppCompatActivity() {
 
